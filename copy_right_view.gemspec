@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://devcamp.com"
+  spec.homepage      = "https://github.com/ChitMyoKo/copy_right_view_tool"
   spec.required_ruby_version = ">= 2.6.0"
   spec.license       = "MIT"
 
